@@ -1,6 +1,6 @@
 // dibawah ini adalah source code
 alert('Selamat Datang!');
-// Alert untuk menghasilkan kolom window kecil dan hanya memberikan pesan sederhana ke user
+// Alert untuk menapilkan kolom window kecil dan hanya memberikan pesan sederhana ke user
 // tanda ('' & "") adalah String untuk membungkus data, dan ( \') adalah escape character 
 var lagi = true;
 // Variabel itu sebuah tempat/ wadah yg memiliki nama yg digunakan untuk menyimpan nilai

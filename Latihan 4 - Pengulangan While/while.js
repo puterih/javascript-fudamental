@@ -7,6 +7,7 @@
 // increment = penambahan 
 // decrement = pengurangan
 
+// dibawah ini adalah source code
 var nilaiAwal = 1;
 // Variabel itu sebuah tempat/ wadah yg memiliki nama yg digunakan untuk menyimpan nilai
 while(nilaiAwal <= 5) {
