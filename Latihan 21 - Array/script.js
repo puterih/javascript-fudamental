@@ -6,7 +6,7 @@
 // index array selalu dimulai dari nol
 // .length untuk menghitung jumlah elemen, jd tidak sama dengan jumlah di index karena index array dimulai dari nol
 // elemen pd array boleh beda tipe string, integer, boolean, ad function, dan array(punya array di dalam array)
-// Manipulasi Array 
+// Manipulasi Array
 
 // 1. Menambah isi array
 // var arr = ["a", 1, true];
